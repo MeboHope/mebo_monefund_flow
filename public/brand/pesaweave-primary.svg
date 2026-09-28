@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 210" role="img" aria-labelledby="title desc">
+  <title id="title">PesaWeave logo</title>
+  <desc id="desc">PesaWeave wordmark with the tagline Separate your money. Connect your flows.</desc>
+  <defs>
+    <linearGradient id="ribbon" x1="55" y1="142" x2="185" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#075FEA"/>
+      <stop offset="0.42" stop-color="#18B8F6"/>
+      <stop offset="1" stop-color="#6EDB45"/>
+    </linearGradient>
+    <linearGradient id="rightBlue" x1="184" y1="63" x2="184" y2="151" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#20C4FF"/>
+      <stop offset="1" stop-color="#075FEA"/>
+    </linearGradient>
+    <linearGradient id="tealBar" x1="94" y1="109" x2="94" y2="154" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0EC7A6"/>
+      <stop offset="1" stop-color="#0D928B"/>
+    </linearGradient>
+    <linearGradient id="amberBar" x1="132" y1="98" x2="132" y2="154" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE15A"/>
+      <stop offset="1" stop-color="#F59B22"/>
+    </linearGradient>
+    <linearGradient id="orangeBar" x1="163" y1="83" x2="163" y2="154" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFD438"/>
+      <stop offset="1" stop-color="#FF8A1F"/>
+    </linearGradient>
+    <linearGradient id="weaveText" x1="475" y1="64" x2="788" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#155EEF"/>
+      <stop offset="1" stop-color="#0A6BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="210" fill="none"/>
+  <g>
+    <path d="M52 154V75C52 49 82.5 35.3 102.1 52.4L120.7 68.8L139 84.9C148.7 93.4 163.1 93 172.1 83.7L185.5 69.8" fill="none" stroke="url(#ribbon)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M185.5 69.8V150" fill="none" stroke="url(#rightBlue)" stroke-width="28" stroke-linecap="round"/>
+    <path d="M95 111V154" fill="none" stroke="url(#tealBar)" stroke-width="25" stroke-linecap="round"/>
+    <path d="M132 101V154" fill="none" stroke="url(#amberBar)" stroke-width="25" stroke-linecap="round"/>
+    <path d="M163 88V154" fill="none" stroke="url(#orangeBar)" stroke-width="25" stroke-linecap="round"/>
+  </g>
+  <g font-family="Manrope, Inter, Arial, sans-serif" font-weight="800" font-size="78" letter-spacing="-4">
+    <text x="244" y="112" fill="#071B2C">Pesa</text>
+    <text x="410" y="112" fill="url(#weaveText)">Weave</text>
+  </g>
+  <text x="246" y="156" font-family="Manrope, Inter, Arial, sans-serif" font-weight="500" font-size="28" fill="#4B5F7B" letter-spacing="-1">Separate your money. Connect your flows.</text>
+</svg>
